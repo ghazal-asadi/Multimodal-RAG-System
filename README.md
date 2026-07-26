@@ -42,11 +42,11 @@
 بعد کتابخانه‌های مورد نیاز را نصب کنید:
 
 
-pip install ...
-streamlit
-PyMuPDF
-Pillow
-google-genai
+ pip install
+- streamlit
+- PyMuPDF
+- Pillow
+- google-genai
 
 
 ---
