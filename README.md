@@ -60,12 +60,12 @@
 
 مسیر فایل باید این‌طوری باشد:
 
-text
+
 .streamlit/secrets.toml
 
 داخل فایل `secrets.toml` این مقدار را قرار دهید:
 
-toml
+
 GEMINI_API_KEY = "your_api_key_here"
 
 به جای `your_api_key_here` باید کلید API خودتان را قرار دهید.
