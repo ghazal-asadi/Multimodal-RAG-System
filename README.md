@@ -35,16 +35,19 @@
 
 ## نحوه اجرای پروژه
 
-برای اجرای پروژه،  کد را از گیت‌هاب دریافت کنید یا پروژه را دانلود کنید.
+برای اجرای پروژه،  کد را از گیت‌هاب دریافت کنید.
 
-سپس وارد پوشه پروژه شوید:
-```bash
-cd Multimodal-RAG-System
+
 
 بعد کتابخانه‌های مورد نیاز را نصب کنید:
 
 bash
-pip install -r requirements.txt
+pip install 
+streamlit
+PyMuPDF
+Pillow
+google-genai
+
 
 ---
 
