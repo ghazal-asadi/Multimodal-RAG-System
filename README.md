@@ -41,8 +41,8 @@
 
 بعد کتابخانه‌های مورد نیاز را نصب کنید:
 
-bash
-pip install 
+
+pip install ...
 streamlit
 PyMuPDF
 Pillow
